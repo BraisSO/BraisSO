@@ -1,6 +1,6 @@
 # Hi! I'm Brais Suárez Miguéns - Web Developer
 ### Working as intern in SoftwareOne
-[![Signature](https://github.com/BraisSO/Hi-/blob/main/linkedin.png?raw=true)]
+![Signature]([https://github.com/BraisSO/Hi-/blob/main/linkedin.png?raw=true](https://github.com/BraisSO/Hi-/blob/main/signature.png?raw=true)
 
 **You can reach me at:**
 <br><br>
