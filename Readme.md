@@ -8,4 +8,7 @@
 
 **You can reach me at:**
 <br><br>
-[![Linkedin](https://github.com/BraisSO/Hi-/blob/main/linkedin.png?raw=true)](https://https://www.linkedin.com/feed/)
+[![Linkedin](https://github.com/BraisSO/Hi-/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/braissuarezmiguens/)
+
+
+
