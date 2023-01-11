@@ -2,6 +2,5 @@
 ### Working as intern in SoftwareOne
 
 **You can reach me at:**
-[text](signature.png)
-
-[![Link](linkedin)](https://https://www.linkedin.com/feed/)
+<br>
+[![Link](https://github.com/BraisSO/Hi-/blob/main/linkedin.png?raw=true)](https://https://www.linkedin.com/feed/)
