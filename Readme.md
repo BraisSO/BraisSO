@@ -52,6 +52,5 @@ Hi there! My name is Brais Suárez Miguéns, and I'm currently working as an int
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BraisSO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BraisSO&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BraisSO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
