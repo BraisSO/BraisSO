@@ -1,5 +1,7 @@
 <p align="center">
+  <kbd>
 <img src="https://raw.githubusercontent.com/BraisSO/BraisSO/main/newSignature.png">
+  </kbd>
 </p>
 
 # 💫 About Me:
