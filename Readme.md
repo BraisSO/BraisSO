@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/BraisSO/Hi-/blob/main/newSwignature.png?raw=true">
+<img src="https://raw.githubusercontent.com/BraisSO/BraisSO/main/newSignature.png">
 </p>
 
 # 💫 About Me:
