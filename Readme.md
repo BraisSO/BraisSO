@@ -35,12 +35,16 @@ Hi there! My name is Brais Suárez Miguéns, and I'm currently working as a deve
 
 ### Frontend development
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
+![Ionic](https://img.shields.io/badge/Ionic-%23309EF3.svg?style=flat&logo=ionic&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 
 ### Databases
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+
+### CRM 
+![Salesforce](https://img.shields.io/badge/Salesforce-%2333CCFF.svg?style=flat&logo=salesforce&logoColor=white)
 
 ### Tools and services
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
