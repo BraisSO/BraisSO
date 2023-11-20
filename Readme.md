@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-Hi there! My name is Brais Suárez Miguéns, and I'm currently working as a front/mobile developer at SoftwareONE. Over the past years, I have gained experience with a variety of programming languages such as JAVA, JavaScript, TypeScript, PHP and Python. In addition, I have worked with SQL databases and markup languages such as HTML5, CSS, Bootstrap, XML, and JSON. I also have experience with back-end frameworks such as Spring, .NET and Flask and front-end frameworks such as Angular and React.<br><br>Furthermore, I possess knowledge of Git/GitHub, Linux environments, scripting in PowerShell and Bash, virtualization in Docker, and other related technologies.<br><br>Thank you for taking the time to read my profile! Please feel free to connect with me on LinkedIn to learn more.
+Hi there! My name is Brais Suárez Miguéns, and I'm currently working as a front/mobile developer at SoftwareONE. Over the past years, I have gained experience with a variety of programming languages such as JAVA, JavaScript, TypeScript, PHP and Python. In addition, I have worked with SQL databases and markup languages such as HTML5, CSS, Bootstrap, XML, and JSON. I also have experience with back-end frameworks such as Spring, .NET and Flask and front-end frameworks such as Angular, Ionic and React.<br><br>Furthermore, I possess knowledge of Git/GitHub, Linux environments, scripting in PowerShell and Bash, virtualization in Docker, and other related technologies.<br><br>Thank you for taking the time to read my profile! Please feel free to connect with me on LinkedIn to learn more.
 
 
 ## 🌐 Socials:
